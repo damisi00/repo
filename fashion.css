@@ -201,6 +201,7 @@ a .btn1:hover, a .btn2:hover, .btn3:hover{
 }
 .signature{
     margin: 1.875rem auto;
+    width:30%
 }
 #six{
     height: 90vh;
