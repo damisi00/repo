@@ -182,11 +182,12 @@ a .btn1:hover, a .btn2:hover, .btn3:hover{
     background-color: white;
 }
 .article-img{
-    width:auto;
+    width:30%;
     padding: 30px;
     height: 80vh;
 }
 .five-txt{
+    width:55%;
     margin: 1.875em;
     word-wrap: break-word;
     
